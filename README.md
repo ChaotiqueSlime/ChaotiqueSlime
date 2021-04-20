@@ -1,4 +1,4 @@
-- 🔭 I’m currently working with https://wornoffkeys.com/
+- 🔭 I’m currently playing with https://wornoffkeys.com/
 - 🌱 I’m currently progressing in JS
 
 I have been a discord.js coder for over a few years and have gained a lot of experience making discord bots but now i want to expand my knowledge to other languages and other ways of using the code instead of just making discord.js bot
